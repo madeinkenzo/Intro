@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrinitySensei
+- 👋 Hi, I’m Kenzo
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: DM
